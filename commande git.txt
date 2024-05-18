@@ -1,1 +1,11 @@
-1- git init:permet d'initialiser un repository en  local
+1-  git init:permet d'initialiser un repository en  local
+2-  git add --all /git add . :permet d'ajouter les fichiers au staging area
+3 - git status :avoir les mise a jour sur le repos
+4 - git commit - m "message"
+
+5-  git config --global user.email "selmi.rmd@gmail.com"
+6 - git config --global user.name "selmi"
+7 - git commit - m "message"
+8 - git log: permet de lister 
+9- git remote add origin https://github.com/selmirmd/taskforce.git
+10- git push -u origin master
